@@ -1,7 +1,7 @@
-public class example
-    {
-        public static void main(String args[])
-        {
-            System.out.printf("hello");
-        }
-    }
+class example
+{
+public static void main(String args[])
+{
+system.out.println("\t hello");
+}
+}
